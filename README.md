@@ -11,8 +11,6 @@
 - 目前仍没有完成的部分是点击任何地方的cell并不会进入详细页面，等待后续不断完善。
 - 还有好多细节不是很完善。
 
-<p>我的新浪微博:[Halo_刘欣][1]
-
   
   [7]: https://github.com/izzyleung/ZhihuDailyPurify/wiki/知乎日报-API-分析
   [8]: https://github.com/izzyleung
