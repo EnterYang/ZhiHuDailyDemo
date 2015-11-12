@@ -4,6 +4,9 @@
 很早以前在Github上看到了一篇分析知乎日报API的文章，在写这个项目的过程中给我带来了极大的方便，再也不用盯着Charles瞅半天了，在此感谢[izzyleung][7]同学的文章,原文:[知乎日报 API 分析][8],感兴趣的同学可以看一下,顺便star一下咯。之前clone了Swift版的模仿知乎日报客户端，学到了很多东西，在这里也要感谢一下作者Swift版作者,可是我找不到他的主页了...从他的代码里自己也收获颇多。
 
 ![启动页][6]
+![主界面][5]
+![部分内容][4]
+![部分内容][3]
 
 ###项目说明
 - 基本界面已经完成,在主页加载更多内容的时候tableview sectionHeaderView达不到原版客户端的效果,我这几天已经被NavigaitonBar 搞的快疯掉了,目前也没什么思路来解决这个问题,希望哪位大神可以提供一下思路。
@@ -13,7 +16,9 @@
 - 目前仍没有完成的部分是点击任何地方的cell并不会进入详细页面，等待后续不断完善。
 - 还有好多细节不是很完善。
 
-  
+  [3]: http://ww4.sinaimg.cn/bmiddle/6cee22c2jw1exyih1ajfzj20af0j5405.jpg
+  [4]: http://ww1.sinaimg.cn/bmiddle/6cee22c2jw1exyih1c1f4j20af0j5gnr.jpg
+  [5]: http://ww2.sinaimg.cn/bmiddle/6cee22c2jw1exyih1c3zsj20af0j5410.jpg
   [6]: http://ww3.sinaimg.cn/bmiddle/6cee22c2jw1exyih2cavfg208w0gh4r1.gif
   [7]: https://github.com/izzyleung/ZhihuDailyPurify/wiki/知乎日报-API-分析
   [8]: https://github.com/izzyleung
